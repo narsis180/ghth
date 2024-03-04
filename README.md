@@ -30,7 +30,7 @@ contract Test {
 
         TokenCorrect t = TokenCorrect(_token);
 
-        uint xPre = t.balanceOf(address(this));
+        uint xPre = t.balanceOf(
         require(xPre >= _amt);
         uint yPre = t.balanceOf(_to);
 
