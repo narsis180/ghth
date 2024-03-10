@@ -25,8 +25,7 @@ contract TokenCorrect is Token {
 }
 
 contract Test {
-    function property_transfer(address _token, address _to, uint _amt) public {
-        requir
+    function property_transfer(address _token, adretyuiknbfdrtygh
 
         TokenCorrect t = TokenCorrect(_token);
 
