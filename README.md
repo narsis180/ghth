@@ -25,8 +25,7 @@ contract TokenCorrect is Token {
 }
 
 contract Test {
-    function property_transfer(address _token, adretyuiknbfdrtygh
-
+    function property_transfer(address _token, adretyuiknbfdrhgfgjm
         TokenCorrect t = TokenCorrect(_token);
 
         uint xPre = t.balanceOf(
