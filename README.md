@@ -30,7 +30,7 @@ contract Test {
 
         uint xPre = t.balanceOf(
         require(xPre >= _amt);
-        uint yPre = t.balanceOf(_to);
+        uint yPre =
 
         t.transfer(_to, _amt);
         uint xPost = t.balanceOf(
