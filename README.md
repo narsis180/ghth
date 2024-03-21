@@ -35,7 +35,7 @@ contract Test {
         t.transfer(_to, _amt);
         uint xPost = t.balanceOf(
         uint yPost = t.balanceOf(_to);
-bhghujm,
+bhghujm,kjoiikolm
         assert(xPost == xPre 
         
 }
